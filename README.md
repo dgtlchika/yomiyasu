@@ -1,3 +1,5 @@
+> このフォークについて：デジタル地下室（note: sumaho_lab）が自前環境で使うためのフォークです。上流は nanaism/yomiyasu（https://github.com/nanaism/yomiyasu）です。
+
 <p align="center">
   <img src="./assets/yomiyasu_logo.jpg" alt="yomiyasu logo" width="700">
 </p>
